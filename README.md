@@ -11,12 +11,24 @@ Rootbars are svg's that come in come exact file sizes
 
 Rootbars represent the value of blockspace on the rootstock chain.
 
+## Smart Contract
+
 ## Development
 
 Rootbars were developed during Eth Global Brussels 2024. We deployed one collection with no permissions, where anybody can mint rootBars
 
 We deployed a special collection called Rootbars: Eth Global Brussels 2024 edition. This collection can be minted during the hackathon, but not after. 
 
+## Ordinals
+
+The orginals protocol lets you teleburn EVM assets onto ordinals inscriptions. 
+
+So as an extra bonus, we minted a new collection of inscriptions on Bitcoin, called BitRootBars, in 1KB sizes.
+
+To create your BitRootBar, first you must acquire a new BitRootBar, then you must send a 1 KB RootBar to the teleburn address. 
+Then each BitRootBar represents the value of 1 KB of blockspace on Bitcoin, AND 1 KB of blockspace on roostock Mainnet! 
+
+This is a combination Bitcoin and Rootstock Mainnet NFT.
 
 ## Inspiration
 
