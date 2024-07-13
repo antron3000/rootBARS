@@ -21,7 +21,7 @@ We deployed a special collection called Rootbars: Eth Global Brussels 2024 editi
 
 ## Ordinals
 
-The orginals protocol lets you teleburn EVM assets onto ordinals inscriptions. 
+The orginals protocol has a feature that lets you teleburn EVM assets onto ordinals inscriptions. 
 
 So as an extra bonus, we minted a new collection of inscriptions on Bitcoin, called BitRootBars, in 1KB sizes.
 
