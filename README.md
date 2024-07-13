@@ -38,7 +38,7 @@ For future editions of rootBars, we will
 - One man's spam is another mans treasure. Besides aren't blockchains supposed to be permissionless? we can do what we want. 
 
 **Why not use offchain storage to save costs**
-The entire point of minting these NFTs is to spend gas to acquire tradable, transferrable blockspace, which we see as a valuable commidity. 
+- The entire point of minting these NFTs is to spend gas to acquire tradable, transferrable blockspace, which we see as a valuable commidity. 
 Therefore gas efficiency is not a primary concern
 
 
