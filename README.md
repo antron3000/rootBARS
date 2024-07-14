@@ -57,7 +57,7 @@ Therefore gas efficiency is not a primary concern
 **gnosis contracts**
 
 Gnosis Bars
-https://gnosis.blockscout.com/address/0x937E7e6E8D8a06CEf5425D212b90ae40BE6c9a75?tab=contract
+https://gnosis.blockscout.com/address/0x2Fbb34Fd097B821981a146a2027181aD4f29e622?tab=contract
 
 old test rootbars
 https://gnosis.blockscout.com/address/0x9405Aaa93Db04267cBd26E662F79765c9A9CdeBA
