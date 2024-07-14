@@ -52,7 +52,7 @@ async function main() {
     // await tx8.wait();
     _nonce = await provider.getTransactionCount(wallet.address);
 
-        for (let j=0;j<100;j++){
+        for (let j=0;j<10;j++){
     const tx16 = await contract.mint16("0xf6ED94cc39d98f708e364d886A8c60a9A753BC57", 1, { nonce: _nonce+j,gasLimit: 17000000});
     console.log("Transaction sent: ", tx16.hash);
     //await tx16.wait();
