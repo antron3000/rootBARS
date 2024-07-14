@@ -62,4 +62,13 @@ https://gnosis.blockscout.com/address/0x2Fbb34Fd097B821981a146a2027181aD4f29e622
 old test rootbars
 https://gnosis.blockscout.com/address/0x9405Aaa93Db04267cBd26E662F79765c9A9CdeBA
 
+**ordinal inscriptions** 
+
+
+      - https://ordinals.com/inscription/fcbaee2ac7e4ad0a08694e3924bbe6138f3ff856efe2065ce646be46f7d442d7i0
+      - https://ordinals.com/inscription/2e43f3f12cdab62301e76734105fc7ba285b72d3b96f1f5ecb15c225808fb72ai0
+      - https://ordinals.com/inscription/ed72a4b7bad6187775deaa5a2dadf7ba9e2f7cfabab3057bcf5bc4cbff9ebc63i0
+     - https://ordinals.com/inscription/8e911196c1b9083b80f86ec14be4f97b9a1380f54edf85085f91445c3f473109i0
+      - https://ordinals.com/inscription/94728a9ca03131a257c7c6f8179c9f37295d44686e66f0bcd6b0fabfb2c5db03i0
+
 
